@@ -1,0 +1,17 @@
+# *
+User-agent: *
+Allow: /
+
+# *
+User-agent: *
+Disallow: /api/
+Disallow: /d-board1
+Disallow: /order=*
+Disallow: /purchased=*
+Disallow: /tickets/
+
+# Host
+Host: https://myboosts.cc
+
+# Sitemaps
+Sitemap: https://myboosts.cc/sitemap.xml
